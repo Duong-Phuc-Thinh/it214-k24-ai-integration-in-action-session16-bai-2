@@ -1,0 +1,1 @@
+import time\n\nclass UserRepository:\n    def find_by_id(self, user_id):\n        time.sleep(0.1)\n        if user_id == \
